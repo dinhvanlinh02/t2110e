@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2a32c305-c02b-43df-a7df-0ebfa060eb00" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -97,7 +96,7 @@
       <workItem from="1639744990477" duration="1651000" />
       <workItem from="1639746718684" duration="58000" />
       <workItem from="1639746968796" duration="248000" />
-      <workItem from="1639747703951" duration="914000" />
+      <workItem from="1639747703951" duration="1545000" />
     </task>
     <task id="LOCAL-00001" summary="UP code HTML">
       <created>1637479438898</created>
@@ -148,7 +147,14 @@
       <option name="project" value="LOCAL" />
       <updated>1639748137743</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="UP code index">
+      <created>1639748687428</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1639748687428</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
