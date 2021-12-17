@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2a32c305-c02b-43df-a7df-0ebfa060eb00" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="HTML File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--follow-tags" />
+        <option name="title" value="Current Branch" />
+      </GitPushTagMode>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="ProjectId" id="21DBgJuksczslQzTq9WicoKzL2V" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File" value="HTML" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.ide.settings.file-colors" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2a32c305-c02b-43df-a7df-0ebfa060eb00" name="Changes" comment="" />
+      <created>1637465889158</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1637465889158</updated>
+      <workItem from="1637465890885" duration="82000" />
+      <workItem from="1637467316518" duration="235000" />
+      <workItem from="1637478059013" duration="905000" />
+      <workItem from="1637478994196" duration="1746000" />
+      <workItem from="1637570908312" duration="237000" />
+      <workItem from="1637571162437" duration="68000" />
+      <workItem from="1637571232390" duration="245000" />
+      <workItem from="1637571480565" duration="1984000" />
+      <workItem from="1637573492240" duration="321000" />
+      <workItem from="1637573851376" duration="305000" />
+      <workItem from="1637583140059" duration="652000" />
+      <workItem from="1637585325450" duration="3201000" />
+      <workItem from="1637591883689" duration="277000" />
+      <workItem from="1637752262825" duration="1444000" />
+      <workItem from="1637758421000" duration="841000" />
+      <workItem from="1637924907213" duration="727000" />
+      <workItem from="1637928032054" duration="1127000" />
+      <workItem from="1637937011143" duration="23000" />
+      <workItem from="1637937274145" duration="2000" />
+      <workItem from="1638018279004" duration="188000" />
+      <workItem from="1638068456513" duration="15000" />
+      <workItem from="1638069281814" duration="119000" />
+      <workItem from="1638184413541" duration="657000" />
+      <workItem from="1638329041518" duration="121000" />
+      <workItem from="1638357926963" duration="13166000" />
+      <workItem from="1639057020108" duration="1673000" />
+      <workItem from="1639393477783" duration="2898000" />
+      <workItem from="1639741217301" duration="10000" />
+      <workItem from="1639741244492" duration="247000" />
+      <workItem from="1639742561005" duration="117000" />
+      <workItem from="1639744990477" duration="1651000" />
+      <workItem from="1639746718684" duration="58000" />
+      <workItem from="1639746968796" duration="248000" />
+      <workItem from="1639747703951" duration="914000" />
+    </task>
+    <task id="LOCAL-00001" summary="UP code HTML">
+      <created>1637479438898</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1637479438898</updated>
+    </task>
+    <task id="LOCAL-00002" summary="UP code index">
+      <created>1637574044584</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1637574044584</updated>
+    </task>
+    <task id="LOCAL-00003" summary="UP code index">
+      <created>1639746362482</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1639746362482</updated>
+    </task>
+    <task id="LOCAL-00004" summary="UP code kt">
+      <created>1639746469785</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1639746469785</updated>
+    </task>
+    <task id="LOCAL-00005" summary="UP code index">
+      <created>1639747743986</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1639747743986</updated>
+    </task>
+    <task id="LOCAL-00006" summary="UP code index">
+      <created>1639748051771</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1639748051771</updated>
+    </task>
+    <task id="LOCAL-00007" summary="UP code index">
+      <created>1639748137743</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1639748137743</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
+    <MESSAGE value="UP code HTML" />
+    <MESSAGE value="UP code kt" />
+    <MESSAGE value="UP code index" />
+    <option name="LAST_COMMIT_MESSAGE" value="UP code index" />
+  </component>
+</project>
